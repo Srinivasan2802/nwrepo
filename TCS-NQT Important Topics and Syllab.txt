@@ -1,0 +1,114 @@
+TCS-NQT Important Topics and Syllabus
+
+Numerical Ability Foundation Section: 
+
+    Statistics
+    Percentage
+    Time & Work
+    Area & Mensuration
+    Number System
+    Linear Equations
+    Data Interpretation
+    HCF LCM
+    Simple Interest
+    Compound Interest
+    Profit and Loss
+    Speed, Distance, Time
+    Ratio and Proportion
+    Permutation and Combination
+    Probability
+    Partnership
+    Mixtures
+
+Level of Difficulty: Easy-Medium
+
+Reasoning Ability Foundation Section:
+
+    Coding and Decoding
+    Cuts and unfolds
+    Attention to detail
+    Unboxing a cube
+    Analogies
+    Blood Relation
+    Data Arrangements
+    Visual Reasoning
+    Venn Diagrams
+    Syllogisms
+    Statement Assumption
+    Statement Conclusion
+
+Level of Difficulty: Medium
+
+Verbal Ability Foundation Section:
+
+    Reading comprehension
+    Sentence correction
+    Sentence completion
+    Error Identification
+    Synonyms & Antonyms
+    Sentence/Paragraph Re-arrangements
+    Fill in the blanks
+    (Prepositions/Articles Tenses/Conjunctions)
+
+Level of Difficulty: Easy-Medium
+
+Advanced Quantitative Aptitude (Advanced Section):
+
+    Averages
+    Profit Loss
+    HCF LCM
+    Permutation and Combination
+    Probability
+    Geometry
+    Mensuration
+    Puzzles
+    Partnership
+    Number System
+    Time & Work
+    Time, Speed, Distance
+    Simple & Compound Interest
+    Progressions
+    Logarithms
+
+Level of Difficulty: Hard
+
+Advanced Reasoning Ability (Advanced Section):
+
+    Data Arrangements
+    Visual Reasoning
+    Venn Diagrams
+    Syllogisms
+    Statement Assumption
+    Statement Conclusion
+    Seating Arrangements
+    Spatial Reasoning
+    Puzzles
+    Cuts, Folds, Cubes-based questions
+
+Level of Difficulty: Hard
+
+Advanced Coding:
+
+    Operators
+    Looping statements
+    Object-Oriented Programming (OOPS)
+    Threading
+    Functions
+    Recursion
+    Algorithms
+    Arrays
+    Control statements
+    Strings
+    Data Structures: Linked List, Stack, Queue, Trees, and Graphs
+    Scenario and Logical Based Problems are asked
+    Matrix Operations and Set Theory
+    String Operations: Backward and Forward Shift
+    Multidimensional Arrays
+    Flow Control Loops
+    Number Series, Pattern Series
+    Shortest Path Calculation Logic
+    Algorithms
+    Data Structures
+    Time and Space Complexity
+
+Level of Difficulty: Hard
